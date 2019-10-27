@@ -1,9 +1,9 @@
 ## EDAV_CommunityContribution
 # Date and Time Cheatsheet
-EDAV Spring 2019 - Community Contribution - Group 43
+EDAV Spring 2019 - Community Contribution - Group 43 <br />
 Kanika Aggarwal & Swarna Bharathi Mantena
 
-We both prepared a cheatsheet for the Date and Time manipulations in R programming language. Mentioned below are the references used. 
+We both prepared a cheatsheet for the Date and Time commands and manipulations in R programming language. Mentioned below are the references used. 
 
 References: <br />
 http://ianmadd.github.io/pages/POSIXct_and_POSIXlt.html <br />
